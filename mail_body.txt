@@ -1,0 +1,15 @@
+受付日時 : %{Y}年%{n}月%{j}日 %{H}:%{i}:%{s}
+
+コメントありがとうございます
+
+ハンドルネーム：
+{name}<!-- BEGIN address:veil -->
+
+メールアドレス：
+{address}<!-- END address:veil -->
+
+コメント：
+{comment}
+
+年代：
+{age}
